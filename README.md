@@ -52,7 +52,7 @@ This project was developed as part of the **10 Academy Artificial Intelligence M
   - Publisher frequency
   - Date-wise news volume trends
   - Common keywords and phrases
-  - Domain analysis from publisher field
+  - Domain analysis from the publisher field
 
 ### 🔹 Task 2: Technical Indicators
 - Loaded OHLCV stock data
