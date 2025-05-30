@@ -75,7 +75,7 @@ This project was developed as part of the **10 Academy Artificial Intelligence M
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- TextBlob, NLTK
+- TextBlob
 - TA-Lib, pynance
 - Scipy (for correlation)
 - Git, GitHub Actions, Jupyter
